@@ -1,0 +1,7 @@
+{
+  "name": "Copy of LevaAí P2P Delivery",
+  "description": "A peer-to-peer on-demand delivery platform connecting senders directly with local drivers for parcel transport.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
